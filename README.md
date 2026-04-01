@@ -1,4 +1,4 @@
-# AI Dev Journey
+# AI Application Dev / (future AI Product Engineer) Journey
 
 
 Documenting my transition from Frontend Developer to AI Application Developer.
